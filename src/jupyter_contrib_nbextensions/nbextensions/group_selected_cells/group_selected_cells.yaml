@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Name: Group selected cells
+Description: Group a set of selected cells using the Alt-g shortcut
+Link: README.md
+Main: main.js
+Compatibility: 4.x, 5.x
